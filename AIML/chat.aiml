@@ -1,0 +1,71 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- basic_chat.aiml -->
+
+    <category>
+        <pattern>HELLO *</pattern>
+        <template>
+            Well, hello!
+        </template>
+    </category>
+	<category>
+		<pattern>* CAN YOU DO FOR ME</pattern>
+		<template>
+			I can talk to you.I can answer your questions using google.I can tell you a Joke.I cna recommend good Restaurents in Bits.I can Remember your stuff.I can tell you about Recent news and also today's weather forecast.I can also tell about today's stock market.
+		</template>
+		
+	</category>
+	
+	<category>
+		<pattern>* JOKE</pattern>
+		<template>
+			<random>
+				<li>Santa- We Need A Bridge In Our Village, Minister- How, There Is No River In Your Village? Santa- Oh Then, We Need A River Too.</li>
+				<li>My wife accused me of being immature. I told her to get out of my fort.</li>
+				<li>Women only call me ugly until they find out how much money I make. Then they call me ugly and poor. </li>
+				<li>Parallel lines have so much in common.Its a shame they will never meet. </li>
+			</random>
+        </template>
+		
+	</category>
+	
+	<category>
+		<pattern>* WEATHER</pattern>
+		<template>
+			WEATHER
+		</template>
+	</category>
+	
+	<category>
+		<pattern>* GOOGLE *</pattern>
+		<template>
+			What do you want to search in GOOGLE?
+		</template>
+	</category>
+	
+	<category>
+		<pattern>* RESTAURANTS IN BITS</pattern>
+		<template>What type of food do you want to eat?You can get:.South Indian Food.Noodles.Rolls and Puffs.Ice Cream.</template>
+	</category>
+	
+	<category>
+		<pattern>* SOUTH INDIAN FOOD</pattern>
+		<template>You can enjoy South Indian Food at Dosa Place and C3.At C3 you can also enjoy chats.</template>
+	</category>
+	
+	<category>
+		<pattern>* NOODLES</pattern>
+		<template>You can can get delicious noodles at Yumpy's.Yumpy's also have starters such as fries,munchurian to enjoy alongside noodles.</template>
+	</category>
+
+	<category>
+		<pattern>* ROLLS AND PUFFS</pattern>
+		<template>You can get a variety of puffs at BNB and C3.</template>
+	</category>
+    
+    	<category>
+		<pattern>* ICE CREAM</pattern>
+		<template>Cold Place is where you would want to go.If you want something cheeper, you can go to Amul.</template>
+	</category>	
+</aiml>
+
+

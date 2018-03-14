@@ -1,0 +1,107 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>* RATING OF BNB</pattern>
+	<template>The rating of bnb is 4.</template>
+</category>
+
+<category>
+ 	<pattern>* RATING OF C3</pattern>
+ 	<template>The rating of c3 is 4.</template>
+</category>
+
+<category>
+ 	<pattern>* RATING OF AMUL</pattern>
+ 	<template>The rating of amul is 3.</template>
+</category>
+
+<category>
+ 	<pattern>* RATING OF YUMPIES</pattern>
+ 	<template>The rating of yumpies is  5.</template>
+</category>
+
+<category>
+ 	<pattern>* BEST DISH OF YUMPIES</pattern>
+ 	<template>Best dish of yumpies is BUTTER GARLIC FRIES.</template>
+</category>
+
+<category>
+ 	<pattern>* BEST DISH OF C3</pattern>
+ 	<template>Best dish of c3 is MUSALA DOSA.</template>
+</category>
+
+<category>
+ 	<pattern>* BEST DISH OF BNB</pattern>
+ 	<template>Best dish of bnb is KATHI ROLL.</template>
+</category>
+
+<category>
+ 	<pattern>* BEST DISH OF AMUL </pattern>
+ 	<template>Best dish of amul is PIZZA.</template>
+</category>              
+
+<category>
+ 	<pattern>* BEST RESTAURANT</pattern>
+ 	<template>Yumpies according to ratings.</template>
+</category>  
+
+<category>
+  	<pattern>WHAT IS YOUR *</pattern>
+  	<template>Dont have any , i m a bot!.</template>
+</category>
+
+<category>
+ 	<pattern>TELL ME ABOUT BNB</pattern>
+ 	<template>The rating of BNB is 4.It's in cp.
+            Available items in bnb are :-.
+            1)veg roll.
+            2)egg roll.
+            3)paneer rool.
+            4)cake. 
+            5)kathi roll.
+            6)dry parsley potato.
+            Most famous among them is Kathi roll.
+  	</template>
+</category>
+
+<category>
+  	<pattern>TELL ME ABOUT YUMPIES</pattern>
+  	<template>The rating of yumpies is 5.It is near boys hostel.
+            Available items in c3 are :-.
+            1)maggie.
+            2)egg maggie.
+            3)cheese maggies.
+            4)fries.
+            5)coffe.
+            6)butter garlic fries.
+            Most famous among them is butter garlic fries.
+  	</template>
+</category>
+
+<category>
+  	<pattern>TELL ME ABOUT C3</pattern>
+  	<template>The rating of c3 is 4.It is near girls hostel.
+            Available items in c3 are :-.
+            1)masala dosa.
+            2)onion dosa.
+            3)samosa.
+            4)papdi chaat.
+            5)coffe.
+            6)cake.
+            Most famous among them is masala dosa.
+  	</template>            
+</category>
+
+<category>
+    	<pattern>TELL ME ABOUT AMUL</pattern>
+    	<template>The rating of amul is 3.It is near CP.
+            Available items in amul are :-.
+            1)pizza.
+            2)amul drinks.
+            3)cold drinks.
+            Most famous among them pizza.
+    	</template>  
+</category>                  
+                
+</aiml>
+

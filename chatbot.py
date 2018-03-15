@@ -103,3 +103,5 @@ while True:
     	for j in line.split("."):
     		print (j)
             
+
+	

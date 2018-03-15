@@ -2,9 +2,9 @@
 
 ------------------Assignment 1-------------------
 Group Details:
-	1)Akhil Bodapati : 2015A7PS0066H
-	2) Saurabh Khandelwal : 2015A7PS0082H
-	3)Amit Bhatt : 2015A7PS0149H
+1)Akhil Bodapati : 2015A7PS0066H
+2) Saurabh Khandelwal : 2015A7PS0082H
+3)Amit Bhatt : 2015A7PS0149H
 
 # Chat-Bot-using-AIML
 This is the basic implementation of a chat bot using AIML python and APIs. Even though this project was very easy to implement It can have a lot of implementation
